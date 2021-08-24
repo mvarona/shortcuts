@@ -1,2 +1,2 @@
-# shortcuts
+# Shortcuts
 Shortcuts to maximize productivity on your favorite iOS devices.
