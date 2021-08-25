@@ -16,7 +16,7 @@ First, [enable shared shortcuts](https://support.apple.com/guide/shortcuts/enabl
 Calculate the estimated time to read from any website or text on any app that allows you to share text. Just select it and share it with the shortcut as follows:
 
 ![Image showing how the shortcut works](time_to_read.jpg)
-![Video showing how the shortcut works](time_to_read.mov)
+![Video showing how the shortcut works](time_to_read.gif)
 
 
 ## Tiempo de lectura <a name="tiempo_de_lectura"></a>
@@ -24,7 +24,7 @@ Calculate the estimated time to read from any website or text on any app that al
 
 Calcula el tiempo de lectura estimado de una página Web o texto en cualquier app que permita compartir texto. Tan solo selecciónalo y compártelo con el atajo así:
 
-![Video mostrando cómo funciona el atajo](time_to_read.mov)
+![Video mostrando cómo funciona el atajo](time_to_read.gif)
 
 
 ## Save translation into note <a name="translation_to_note"></a>
@@ -32,8 +32,8 @@ Calcula el tiempo de lectura estimado de una página Web o texto en cualquier ap
 
 Save the translation to the language you want from any text into your vocabulary note. Just select it and share it with the shortcut as follows:
 
-![Image showing how the shortcut works](translation_to_onte.png)
-![Video showing how the shortcut works](translation_to_note.mp4)
+![Image showing how the shortcut works](translation_to_note.png)
+![Video showing how the shortcut works](translation_to_note.gif)
 
 
 ## Guardar traducción en nota de vocabulario <a name="traduccion_a_nota"></a>
@@ -41,4 +41,4 @@ Save the translation to the language you want from any text into your vocabulary
 
 Guarda la traducción al lenguaje que quieras desde cualquier texto a tu nota de vocabulario. Tan solo selecciónalo y compártelo con el atajo así:
 
-![Video mostrando cómo funciona el atajo](translation_to_note.mov)
+![Video mostrando cómo funciona el atajo](translation_to_note.gif)
