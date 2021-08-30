@@ -5,7 +5,7 @@ First, [enable shared shortcuts](https://support.apple.com/guide/shortcuts/enabl
 
 # Table of contents
 
-1. [Read time](#time_to_read) ⏳
+1. [Read time](#read_time) ⏳
 2. [Tiempo de lectura](#tiempo_de_lectura) ⏳
 3. [Save translation into vocabulary note](#translation_to_note) 📝
 4. [Guardar traducción en nota de vocabulario](#traduccion_a_nota) 📝
