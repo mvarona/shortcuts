@@ -5,28 +5,28 @@ First, [enable shared shortcuts](https://support.apple.com/guide/shortcuts/enabl
 
 # Table of contents
 
-1. [Time to read](#time_to_read) ⏳
+1. [Read time](#time_to_read) ⏳
 2. [Tiempo de lectura](#tiempo_de_lectura) ⏳
 3. [Save translation into vocabulary note](#translation_to_note) 📝
 4. [Guardar traducción en nota de vocabulario](#traduccion_a_nota) 📝
 
-<a name="time_to_read"></a>
-## Time to read ⏳
-[Download](https://github.com/mvarona/shortcuts/blob/main/Read%20time.shortcut?raw=true)
+<a name="read_time"></a>
+## Read time ⏳
+[Download](https://www.icloud.com/shortcuts/49698085517b4408afde4726eb2e89c8)
 
-Calculate the estimated time to read from any website or text on any app that allows you to share text. Just select it and share it with the shortcut as follows:
+Calculate the estimated read time from any website or text on any app that allows you to share text. Just select it and share it with the shortcut as follows:
 
-![Image showing how the shortcut works](time_to_read.jpg)
-![Video showing how the shortcut works](time_to_read.gif)
+![Image showing how the shortcut works](read_time.jpg)
+![Video showing how the shortcut works](read_time.gif)
 
 
 <a name="tiempo_de_lectura"></a>
 ## Tiempo de lectura ⏳
-[Descargar](https://github.com/mvarona/shortcuts/blob/main/Tiempo%20de%20lectura.shortcut?raw=true)
+[Descargar](https://www.icloud.com/shortcuts/71f3795c7dd042dcba1297a3dd60ef43)
 
 Calcula el tiempo de lectura estimado de una página Web o texto en cualquier app que permita compartir texto. Tan solo selecciónalo y compártelo con el atajo así:
 
-![Video mostrando cómo funciona el atajo](time_to_read.gif)
+![Video mostrando cómo funciona el atajo](read_time.gif)
 
 
 <a name="translation_to_note"></a>
